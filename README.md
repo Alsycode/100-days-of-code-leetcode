@@ -1,6 +1,6 @@
 
 # 100 Days of Code - LeetCode Challenge
-Solving one LeetCode problem daily for 100 days using JavaScript. Follow my journey on [LinkedIn](insert-your-linkedin-profile-link)!
+Solving one LeetCode problem daily for 100 days using JavaScript. Follow my journey on [LinkedIn](https://www.linkedin.com/in/alfredshyamreactdev/)!
 
 ## Goals
 - Improve problem-solving skills.
@@ -10,4 +10,4 @@ Solving one LeetCode problem daily for 100 days using JavaScript. Follow my jour
 ## Progress
 - Start Date: March 21, 2025
 - End Date: June 29, 2025
-- Days Completed: 0/100
+- Days Completed: 1/100
