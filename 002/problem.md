@@ -1,4 +1,4 @@
-# Day 1: Can Place Flowers
+# Day 2: Reverse Vowels of a string
 [LeetCode Link](https://leetcode.com/problems/reverse-vowels-of-a-string/description/?envType=study-plan-v2&envId=leetcode-75)
 
 Given a string s, reverse only all the vowels in the string and return it.
