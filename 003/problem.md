@@ -1,4 +1,4 @@
-# Day 2: Reverse Words in a String
+# Day 3: Reverse Words in a String
 [LeetCode Link](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1584030792/?envType=study-plan-v2&envId=leetcode-75)
 
 Given an input string s, reverse the order of the words.
