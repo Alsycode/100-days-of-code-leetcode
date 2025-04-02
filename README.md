@@ -10,4 +10,4 @@ Solving one LeetCode problem daily for 100 days using JavaScript. Follow my jour
 ## Progress
 - Start Date: March 21, 2025
 - End Date: June 29, 2025
-- Days Completed: 7/100
+- Days Completed: 9/100
